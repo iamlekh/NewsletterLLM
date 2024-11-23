@@ -62,7 +62,7 @@ Once you've made your selections, the app generates a newsletter tailored to you
 ## Installation
 
 ```bash
-pip install streamlit langchain openai
+pip install -r requirements.txt
 ```
 
 ## Environment Variables
